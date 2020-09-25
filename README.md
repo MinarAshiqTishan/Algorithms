@@ -7,7 +7,7 @@
  
  The modules are at \Sorts\src directory
  
- The \Sorts directory is a Pycharm project. Import it in a Pycharm workspace should work.
+ The \Sorts directory is a Pycharm project. Importing it in a Pycharm workspace should work.
  
  Sorts.py is for profiling the algorithms with some hardcoded inputs
  
