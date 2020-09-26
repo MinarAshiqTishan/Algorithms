@@ -1,3 +1,4 @@
+# profiling algebra algorithms
 import BinaryExponentiation as be
 import cProfile as cpr
 import pstats
@@ -24,7 +25,6 @@ if __name__ == "__main__":
     result = be.norm_exp(num, expo)
     print(result)
     cpr.run('be.norm_exp(num, expo)')
-
 
     # Binary Exponentiation
     num = 4
