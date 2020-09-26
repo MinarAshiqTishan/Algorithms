@@ -1,0 +1,64 @@
+[0, 1, 1, 1, 2, 2, 2, 3, 4, 4, 999]
+         6 function calls in 0.000 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1     94µs     94µs   1967µs   1967µs <string>:1(<module>)
+        1   1843µs   1843µs   1873µs   1873µs CountingSort.py:2(counting_sort)
+        1    957µs    957µs   2925µs   2925µs {built-in method builtins.exec}
+        1      4µs      4µs      4µs      4µs {built-in method builtins.len}
+        1     25µs     25µs     25µs     25µs {built-in method builtins.max}
+        1      4µs      4µs      4µs      4µs {method 'disable' of '_lsprof.Profiler' objects}
+
+
+[0, 1, 163, 211, 261, 394, 433, 455, 462, 681, 723, 905, 12333]
+         405 function calls in 0.027 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1     34µs     34µs    0.027    0.027 <string>:1(<module>)
+        5    0.026    0.005    0.027    0.005 demo_rad_sort.py:3(counting_sort)
+      195   1667µs      8µs   1667µs      8µs demo_rad_sort.py:34(get_digit)
+        1     17µs     17µs     17µs     17µs demo_rad_sort.py:39(get_num_difit)
+        1   3917µs   3917µs    0.027    0.027 demo_rad_sort.py:47(radix_sort)
+      195    851µs      4µs   2518µs     12µs demo_rad_sort.py:52(<lambda>)
+        1    859µs    859µs    0.027    0.027 {built-in method builtins.exec}
+        5     76µs     15µs     76µs     15µs {built-in method builtins.len}
+        1     12µs     12µs     12µs     12µs {method 'disable' of '_lsprof.Profiler' objects}
+
+
+[0, 1, 163, 211, 261, 394, 433, 455, 462, 681, 723, 905, 12333]
+         73 function calls in 0.000 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1     17µs     17µs   2326µs   2326µs <string>:1(<module>)
+        1     29µs     29µs     29µs     29µs RadixSort.py:15(digit_counter)
+        1   2112µs   2112µs   2309µs   2309µs RadixSort.py:31(radix_sort)
+        1      0µs      0µs      0µs      0µs {built-in method builtins.abs}
+        1    573µs    573µs   2899µs   2899µs {built-in method builtins.exec}
+        1      4µs      4µs      4µs      4µs {built-in method builtins.len}
+        1     17µs     17µs     17µs     17µs {built-in method builtins.max}
+       65    145µs      2µs    145µs      2µs {method 'append' of 'list' objects}
+        1      4µs      4µs      4µs      4µs {method 'disable' of '_lsprof.Profiler' objects}
+
+
+[('as', 0), ('xcvxv', 1), ('xcw', 1), ('gg', 163), ('rr', 163), ('tt', 211), ('rr', 261), ('ww', 394), ('zxcw', 433), ('vv', 455), ('aa', 462), ('zxca', 681), ('qtyu', 12333)]
+         86 function calls in 0.000 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1     17µs     17µs   1885µs   1885µs <string>:1(<module>)
+        1     25µs     25µs     25µs     25µs RadixSort.py:15(digit_counter)
+        1   1684µs   1684µs   1868µs   1868µs RadixSort.py:72(radix_sort2)
+       13     25µs      1µs     25µs      1µs RadixSort.py:73(<lambda>)
+        1      0µs      0µs      0µs      0µs {built-in method builtins.abs}
+        1    397µs    397µs   2283µs   2283µs {built-in method builtins.exec}
+        1      0µs      0µs      0µs      0µs {built-in method builtins.len}
+        1     47µs     47µs     72µs     72µs {built-in method builtins.max}
+       65     85µs      1µs     85µs      1µs {method 'append' of 'list' objects}
+        1      4µs      4µs      4µs      4µs {method 'disable' of '_lsprof.Profiler' objects}
