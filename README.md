@@ -5,10 +5,13 @@
  
  Each Sorting Algorithm has its own module
  
- The modules are at \Sorts\src directory
+ The modules are at \Algorithms\src_\* directory
  
- The \Sorts directory is a Pycharm project. Importing it in a Pycharm workspace should work.
+ The \Algorithms directory is a Pycharm project. Importing it in a Pycharm workspace should work.
  
- Sorts.py is for profiling the algorithms with some hardcoded inputs
+ profiling_\*.py is for profiling the algorithms with some hardcoded inputs
+ 
+ 
+ 
  
  
