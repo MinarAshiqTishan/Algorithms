@@ -25,6 +25,14 @@ if __name__ == "__main__":
     print(result)
     cpr.run('be.norm_exp(num, expo)')
 
+
+    # Binary Exponentiation
+    num = 4
+    expo = 13
+    result = be.bin_exp(num, expo)
+    print(result)
+    cpr.run('be.bin_exp(num, expo)')
+
     # Binary Exponentiation
     num = 53
     expo = 13
