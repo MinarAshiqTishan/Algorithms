@@ -1,0 +1,38 @@
+67108864
+         4 function calls in 0.000 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1     38µs     38µs    102µs    102µs <string>:1(<module>)
+        1     64µs     64µs     64µs     64µs BinaryExponentiation.py:4(norm_exp)
+        1    795µs    795µs    898µs    898µs {built-in method builtins.exec}
+        1      8µs      8µs      8µs      8µs {method 'disable' of '_lsprof.Profiler' objects}
+
+
+67108864
+         4 function calls in 0.000 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1     12µs     12µs     38µs     38µs <string>:1(<module>)
+        1     25µs     25µs     25µs     25µs BinaryExponentiation.py:11(bin_exp)
+        1    478µs    478µs    517µs    517µs {built-in method builtins.exec}
+        1      4µs      4µs      4µs      4µs {method 'disable' of '_lsprof.Profiler' objects}
+
+
+26036721925606486195973
+         4 function calls in 0.000 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1     17µs     17µs     42µs     42µs <string>:1(<module>)
+        1     25µs     25µs     25µs     25µs BinaryExponentiation.py:11(bin_exp)
+        1    406µs    406µs    449µs    449µs {built-in method builtins.exec}
+        1      4µs      4µs      4µs      4µs {method 'disable' of '_lsprof.Profiler' objects}
+
+
+
+Process finished with exit code 0
